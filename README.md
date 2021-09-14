@@ -5,6 +5,8 @@ a pocket calculator.
 
 [![Build Status](https://dev.azure.com/maheshgummaraju/calculator/_apis/build/status/maheshglm.calculator?branchName=master)](https://dev.azure.com/maheshgummaraju/calculator/_build/latest?definitionId=8&branchName=master)
 
+[![Node.js CI](https://github.com/maheshglm/calculator/actions/workflows/node.js.yml/badge.svg)](https://github.com/maheshglm/calculator/actions/workflows/node.js.yml)
+
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
 and chai.  The `mocha-junit-reporters` package is included to provide XML
